@@ -1,0 +1,5 @@
+git config --global user.name "Hichem Hamza"
+git config --global user.email h.hamzahichem@gmail.com
+git config --global color.ui true
+//end;
+Première modification;
