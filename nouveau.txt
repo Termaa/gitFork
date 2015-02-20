@@ -2,4 +2,4 @@ Commit d'un nouveau fichier
 Tout ce qui suit est faux :
 Sur la branche de mathieu, sur laquelle il a bâti une cabane.
 bonjour
-iozajdkqznhmdlqznd
+Régler le conflit en mode bégé
